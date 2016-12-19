@@ -1,0 +1,21 @@
+html,
+body {
+  height: 100%;
+  overflow: hidden;
+}
+body {
+  background: url("../img/03_400x600.jpg") repeat;
+}
+.main-holder {
+  padding: 10px;
+  font-family: sans-serif;
+  min-height: 100%;
+  overflow: auto;
+  width: 960px;
+  margin: 0 auto;
+  color: white;
+  background-color: #444;
+}
+img {
+  border: 5px solid #FFF;
+}
